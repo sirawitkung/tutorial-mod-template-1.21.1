@@ -1,14 +1,14 @@
 {
 	"schemaVersion": 1,
 	"id": "tutorialmod",
-	"version": "0.0.1-Alpha",
+	"version": "0.0.2-Alpha",
 	"name": "Tutorial Mod",
-	"description": "NUT!!!",
+	"description": "mod with random stuff",
 	"authors": [
 		"Sirawitkung"
 	],
 	"contact": {
-		"homepage": "",
+		"homepage": "https://github.com/sirawitkung",
 		"sources": "https://github.com/sirawitkung/tutorial-mod-template-1.21.5"
 	},
 	"license":  "MIT",
